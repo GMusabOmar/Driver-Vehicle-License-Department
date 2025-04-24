@@ -1,0 +1,45 @@
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\BusinessAccess\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\BusinessAccess\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\BusinessAccess\bin\Debug\BusinessAccess.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\BusinessAccess\bin\Debug\BusinessAccess.pdb
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\BusinessAccess\bin\Debug\DataAccess.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\BusinessAccess\bin\Debug\DataAccess.pdb
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\BusinessAccess\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\BusinessAccess\obj\Debug\BusinessAccess.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\BusinessAccess\obj\Debug\BusinessAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\BusinessAccess\bin\Debug\BusinessAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\BusinessAccess\bin\Debug\BusinessAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\BusinessAccess\bin\Debug\DataAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\BusinessAccess\bin\Debug\DataAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\BusinessAccess\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\BusinessAccess\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\BusinessAccess\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\BusinessAccess\obj\Debug\BusinessAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\BusinessAccess\obj\Debug\BusinessAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\BusinessAccess\bin\Debug\BusinessAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\BusinessAccess\bin\Debug\BusinessAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\BusinessAccess\bin\Debug\DataAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\BusinessAccess\bin\Debug\DataAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\BusinessAccess\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\BusinessAccess\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\BusinessAccess\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\BusinessAccess\obj\Debug\BusinessAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\BusinessAccess\obj\Debug\BusinessAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\BusinessAccess\bin\Debug\BusinessAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\BusinessAccess\bin\Debug\BusinessAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\BusinessAccess\bin\Debug\DataAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\BusinessAccess\bin\Debug\DataAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\BusinessAccess\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\BusinessAccess\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\BusinessAccess\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\BusinessAccess\obj\Debug\BusinessAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\BusinessAccess\obj\Debug\BusinessAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\BusinessAccess\bin\Debug\BusinessAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\BusinessAccess\bin\Debug\BusinessAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\BusinessAccess\bin\Debug\DataAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\BusinessAccess\bin\Debug\DataAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\BusinessAccess\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\BusinessAccess\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\BusinessAccess\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\BusinessAccess\obj\Debug\BusinessAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\BusinessAccess\obj\Debug\BusinessAccess.pdb

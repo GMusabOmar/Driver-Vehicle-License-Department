@@ -1,0 +1,285 @@
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\bin\Debug\workSpace.exe.config
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\bin\Debug\workSpace.exe
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\bin\Debug\workSpace.pdb
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.AssemblyReference.cache
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.frmMain.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Properties.Resources.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.GenerateResource.cache
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.CoreCompileInputs.cache
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.exe
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.pdb
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.Controls.ctrlPersonCard.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Persons.frmAddUpdatePerson.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\bin\Debug\BusinessAccess.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\bin\Debug\DataAccess.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\bin\Debug\BusinessAccess.pdb
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\bin\Debug\DataAccess.pdb
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.Up2Date
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.frmFindPerson.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.frmShowPersonInfo.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.frmListPeople.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.ctrlUserCard.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmAddUpdateUser.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmUserInfo.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmChangePassword.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmListUser.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Login.frmLogin.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.ApplicationType.frmListApplicationType.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.ApplicationType.frmUpdateApplicationType.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Test_Type.frmListTest.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Test_Type.frmUpdateTest.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Controls.ctrlApplicationBasicInfo.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.frmAddUpdateLocalDrivingLicesnseApplication.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.ctrlDrivingLicenseApplicationInfo.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.frmLocalDrivingLicenseApplicationInfo.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.frmListLocalDrivingLicesnseApplications.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Controls.crlScheduleTest.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.frmScheduleTest.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.frmListTestAppointments.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Controls.ctrlSecheduledTest.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.frmTakeTest.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.frmIssueDriverLicenseFirstTime.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfo.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.frmShowLicenseInfo.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Renew_Local_License.frmRenewLocalDrivingLicenseApplication.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.ReplaceLostOrDamagedLicense.frmReplaceLostOrDamagedLicenseApplication.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Drivers.frmListDrivers.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Controls.ctrlDriverLicenses.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.frmShowPersonLicenseHistory.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Detain_License.frmDetainLicenseApplication.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Rlease_Detained_License.frmReleaseDetainedLicenseApplication.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Rlease_Detained_License.frmListDetainedLicenses.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.International_Licenses.Controls.ctrlDriverInternationalLicenseInfo.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.International_Licenses.frmShowInternationalLicenseInfo.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.International_License.frmNewInternationalLicenseApplication.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.International_License.frmListInternationalLicesnseApplications.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\bin\Debug\workSpace.exe.config
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\bin\Debug\workSpace.exe
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\bin\Debug\workSpace.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\bin\Debug\BusinessAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\bin\Debug\DataAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\bin\Debug\BusinessAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\bin\Debug\DataAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.AssemblyReference.cache
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.ApplicationType.frmListApplicationType.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.ApplicationType.frmUpdateApplicationType.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Controls.ctrlApplicationBasicInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.International_License.frmListInternationalLicesnseApplications.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.International_License.frmNewInternationalLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.ctrlDrivingLicenseApplicationInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.frmAddUpdateLocalDrivingLicesnseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.frmListLocalDrivingLicesnseApplications.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.frmLocalDrivingLicenseApplicationInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Renew_Local_License.frmRenewLocalDrivingLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.ReplaceLostOrDamagedLicense.frmReplaceLostOrDamagedLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Rlease_Detained_License.frmListDetainedLicenses.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Rlease_Detained_License.frmReleaseDetainedLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Drivers.frmListDrivers.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.frmMain.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Controls.ctrlDriverLicenses.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Detain_License.frmDetainLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.frmShowPersonLicenseHistory.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.International_Licenses.Controls.ctrlDriverInternationalLicenseInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.International_Licenses.frmShowInternationalLicenseInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.frmIssueDriverLicenseFirstTime.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.frmShowLicenseInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Login.frmLogin.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.Controls.ctrlPersonCard.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.Controls.ctrlPersonCardWithFilter.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Persons.frmAddUpdatePerson.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.frmFindPerson.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.frmListPeople.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.frmShowPersonInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Properties.Resources.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Controls.crlScheduleTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Controls.ctrlSecheduledTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.frmListTestAppointments.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.frmScheduleTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.frmTakeTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Test_Type.frmListTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Test_Type.frmUpdateTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.ctrlUserCard.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmAddUpdateUser.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmChangePassword.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmListUser.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmUserInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.GenerateResource.cache
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.CoreCompileInputs.cache
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.Up2Date
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.exe
+F:\Projects\DVLD PROJECT COPYS\Copy30\Windows Form\workSpace\workSpace\obj\Debug\workSpace.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\bin\Debug\workSpace.exe.config
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\bin\Debug\workSpace.exe
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\bin\Debug\workSpace.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\bin\Debug\BusinessAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\bin\Debug\DataAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\bin\Debug\BusinessAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\bin\Debug\DataAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.AssemblyReference.cache
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.ApplicationType.frmListApplicationType.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.ApplicationType.frmUpdateApplicationType.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Controls.ctrlApplicationBasicInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.International_License.frmListInternationalLicesnseApplications.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.International_License.frmNewInternationalLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.ctrlDrivingLicenseApplicationInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.frmAddUpdateLocalDrivingLicesnseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.frmListLocalDrivingLicesnseApplications.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.frmLocalDrivingLicenseApplicationInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Renew_Local_License.frmRenewLocalDrivingLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.ReplaceLostOrDamagedLicense.frmReplaceLostOrDamagedLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Rlease_Detained_License.frmListDetainedLicenses.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Rlease_Detained_License.frmReleaseDetainedLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Drivers.frmListDrivers.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.frmMain.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Controls.ctrlDriverLicenses.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Detain_License.frmDetainLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.frmShowPersonLicenseHistory.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.International_Licenses.Controls.ctrlDriverInternationalLicenseInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.International_Licenses.frmShowInternationalLicenseInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.frmIssueDriverLicenseFirstTime.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.frmShowLicenseInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Login.frmLogin.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.Controls.ctrlPersonCard.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.Controls.ctrlPersonCardWithFilter.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Persons.frmAddUpdatePerson.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.frmFindPerson.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.frmListPeople.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.frmShowPersonInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Properties.Resources.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Controls.crlScheduleTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Controls.ctrlSecheduledTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.frmListTestAppointments.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.frmScheduleTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.frmTakeTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Test_Type.frmListTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Test_Type.frmUpdateTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.ctrlUserCard.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmAddUpdateUser.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmChangePassword.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmListUser.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmUserInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.GenerateResource.cache
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.CoreCompileInputs.cache
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.Up2Date
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.exe
+F:\Projects\DVLD PROJECT COPYS\Copy31\Windows Form\workSpace\workSpace\obj\Debug\workSpace.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\bin\Debug\workSpace.exe.config
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\bin\Debug\workSpace.exe
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\bin\Debug\workSpace.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\bin\Debug\BusinessAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\bin\Debug\DataAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\bin\Debug\BusinessAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\bin\Debug\DataAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.AssemblyReference.cache
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.ApplicationType.frmListApplicationType.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.ApplicationType.frmUpdateApplicationType.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Controls.ctrlApplicationBasicInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.International_License.frmListInternationalLicesnseApplications.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.International_License.frmNewInternationalLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.ctrlDrivingLicenseApplicationInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.frmAddUpdateLocalDrivingLicesnseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.frmListLocalDrivingLicesnseApplications.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.frmLocalDrivingLicenseApplicationInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Renew_Local_License.frmRenewLocalDrivingLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.ReplaceLostOrDamagedLicense.frmReplaceLostOrDamagedLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Rlease_Detained_License.frmListDetainedLicenses.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Rlease_Detained_License.frmReleaseDetainedLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Drivers.frmListDrivers.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.frmMain.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Controls.ctrlDriverLicenses.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Detain_License.frmDetainLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.frmShowPersonLicenseHistory.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.International_Licenses.Controls.ctrlDriverInternationalLicenseInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.International_Licenses.frmShowInternationalLicenseInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.frmIssueDriverLicenseFirstTime.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.frmShowLicenseInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Login.frmLogin.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.Controls.ctrlPersonCard.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.Controls.ctrlPersonCardWithFilter.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Persons.frmAddUpdatePerson.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.frmFindPerson.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.frmListPeople.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.frmShowPersonInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Properties.Resources.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Controls.crlScheduleTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Controls.ctrlSecheduledTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.frmListTestAppointments.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.frmScheduleTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.frmTakeTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Test_Type.frmListTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Test_Type.frmUpdateTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.ctrlUserCard.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmAddUpdateUser.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmChangePassword.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmListUser.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmUserInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.GenerateResource.cache
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.CoreCompileInputs.cache
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.Up2Date
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.exe
+F:\Projects\DVLD PROJECT COPYS\Copy32\Windows Form\workSpace\workSpace\obj\Debug\workSpace.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\bin\Debug\workSpace.exe.config
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\bin\Debug\workSpace.exe
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\bin\Debug\workSpace.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\bin\Debug\BusinessAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\bin\Debug\DataAccess.dll
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\bin\Debug\BusinessAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\bin\Debug\DataAccess.pdb
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.AssemblyReference.cache
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.ApplicationType.frmListApplicationType.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.ApplicationType.frmUpdateApplicationType.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Controls.ctrlApplicationBasicInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.International_License.frmListInternationalLicesnseApplications.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.International_License.frmNewInternationalLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.ctrlDrivingLicenseApplicationInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.frmAddUpdateLocalDrivingLicesnseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.frmListLocalDrivingLicesnseApplications.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Local_Driving_License.frmLocalDrivingLicenseApplicationInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Renew_Local_License.frmRenewLocalDrivingLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.ReplaceLostOrDamagedLicense.frmReplaceLostOrDamagedLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Rlease_Detained_License.frmListDetainedLicenses.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Applications.Rlease_Detained_License.frmReleaseDetainedLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Drivers.frmListDrivers.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.frmMain.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Controls.ctrlDriverLicenses.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Detain_License.frmDetainLicenseApplication.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.frmShowPersonLicenseHistory.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.International_Licenses.Controls.ctrlDriverInternationalLicenseInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.International_Licenses.frmShowInternationalLicenseInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.frmIssueDriverLicenseFirstTime.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Licenses.Local_Licenses.frmShowLicenseInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Login.frmLogin.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.Controls.ctrlPersonCard.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.Controls.ctrlPersonCardWithFilter.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Persons.frmAddUpdatePerson.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.frmFindPerson.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.frmListPeople.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.People.frmShowPersonInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Properties.Resources.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Controls.crlScheduleTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Controls.ctrlSecheduledTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.frmListTestAppointments.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.frmScheduleTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.frmTakeTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Test_Type.frmListTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.Tests.Test_Type.frmUpdateTest.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.ctrlUserCard.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmAddUpdateUser.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmChangePassword.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmListUser.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.User.frmUserInfo.resources
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.GenerateResource.cache
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.CoreCompileInputs.cache
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.csproj.Up2Date
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.exe
+F:\Projects\DVLD PROJECT COPYS\Copy33\Windows Form\workSpace\workSpace\obj\Debug\workSpace.pdb
